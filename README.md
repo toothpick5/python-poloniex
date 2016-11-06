@@ -12,12 +12,12 @@ Inspired by [this](http://pastebin.com/8fBVpjaj) wrapper written by 'oipminer'
 ## Install:
 Python 2: 
 ```
-pip install git+https://github.com/s4w3d0ff/python-poloniex.git
+pip install git+https://github.com/toothpick5/python-poloniex.git
 ```
 
 Python 3: 
 ```
-pip3 install git+https://github.com/s4w3d0ff/python-poloniex.git
+pip3 install git+https://github.com/toothpick5/python-poloniex.git
 ```
 
 ## Uninstall:
